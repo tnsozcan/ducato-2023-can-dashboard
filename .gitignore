@@ -1,0 +1,26 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Arduino / build output
+build/
+*.hex
+*.elf
+*.o
+
+# Editors
+.vscode/
+.idea/
+
+*.log
+
+# Private notes (never publish)
+.codex-memory/
+.claude/
