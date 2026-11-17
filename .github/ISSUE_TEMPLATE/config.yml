@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Installation guide
+    url: https://github.com/tnsozcan/ducato-2023-can-dashboard/blob/main/docs/KURULUM_TR.md
+    about: Read the setup steps and known limitations first.
+  - name: Private security report
+    url: https://github.com/tnsozcan/ducato-2023-can-dashboard/security/advisories/new
+    about: Report software vulnerabilities privately.
